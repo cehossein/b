@@ -1,0 +1,2 @@
+mysql -u root -p1234
+bein p , ramz hich faselei nabashe
